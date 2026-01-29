@@ -144,4 +144,4 @@ Insight:
 Supermarket-type outlets lead in total sales and item variety, while grocery stores maintain stable customer ratings.
 
 # Snapshot of Dashboard
-  https://github.com/Nandini1703/Blinkit-Dashboard/blob/main/blinkit%20dashboard.png 
+ Dashboard preview ( https://github.com/Nandini1703/Blinkit-Dashboard/blob/main/blinkit%20dashboard.png )
