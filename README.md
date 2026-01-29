@@ -3,7 +3,7 @@
 1️⃣ Dashboard Name
 Blinkit Sales, Outlet & Product Performance Dashboard (Power BI)
 
-2️⃣ Dashboard Description
+2️⃣ Short Description / Purpose
 This Power BI dashboard analyzes Blinkit’s retail sales data to evaluate overall sales performance, outlet efficiency, product demand, and customer behavior. The project focuses on data cleaning, aggregation, and KPI creation using Power Query and DAX to transform raw retail data into actionable business insights.
 
 The dashboard enables stakeholders to monitor total sales, average sales, outlet-wise performance, item category trends, and location-based revenue distribution through interactive visualizations and filters.
@@ -153,3 +153,4 @@ Insight:
 Supermarket-type outlets lead in total sales and item variety, while grocery stores maintain stable customer ratings.
 
 Snapshot of Dashboard
+  https://github.com/Nandini1703/Blinkit-Dashboard/blob/main/blinkit%20dashboard.png 
