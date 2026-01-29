@@ -1,6 +1,6 @@
 # Blinkit-Dashboard
 
-1️⃣ Dashboard Name
+#1️⃣ Dashboard Name
 Blinkit Sales, Outlet & Product Performance Dashboard (Power BI)
 
 2️⃣ Short Description / Purpose
